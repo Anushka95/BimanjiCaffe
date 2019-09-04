@@ -1,0 +1,75 @@
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\Stoke Valuation And Sales Analysis System.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form10.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form11.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form12.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form13.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form2.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form3.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form4.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form5.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form6.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form7.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form8.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form9.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\Stoke Valuation And Sales Analysis System.csproj.GenerateResource.Cache
+G:\ESOFT\Educational\Our Project\Software\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+G:\ESOFT\Educational\Our Project\Software\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\Stoke Valuation And Sales Analysis System.csprojResolveAssemblyReference.cache
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\Stoke Valuation And Sales Analysis System.csproj.GenerateResource.Cache
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+G:\ESOFT\Educational\Our Project\Software\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+G:\ESOFT\Educational\Our Project\Software\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+G:\ESOFT\Educational\Our Project\Software\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_Login.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_SelectFoodsCashier.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_ViewStock.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_ViewPrices.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_Splash.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_Cashier.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_Owner.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_SelectFoodsOwner.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_Prices.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_Stock.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_SalesIncome.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\bin\Debug\Database1.mdf
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\bin\Debug\Database1_log.ldf
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_PasswordChange.resources
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\bin\Debug\Database1.mdf
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\bin\Debug\Database1_log.ldf
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\Stoke Valuation And Sales Analysis System.csprojResolveAssemblyReference.cache
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_Login.resources
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_SelectFoodsCashier.resources
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_ViewStock.resources
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_ViewPrices.resources
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_Splash.resources
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_Cashier.resources
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_Owner.resources
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_SelectFoodsOwner.resources
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_Prices.resources
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_Stock.resources
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_PasswordChange.resources
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form_SalesIncome.resources
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+G:\ESOFT\Educational\Our Project\Software\New folder\New folder\New folder\New folder\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\Stoke Valuation And Sales Analysis System.csproj.GenerateResource.Cache
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form8.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form10.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form15.resources
+G:\PROJECT\Stoke Valuation And Sales Analysis System\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form16.resources
